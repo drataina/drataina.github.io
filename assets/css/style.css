@@ -1317,9 +1317,9 @@ p {
         font-size: 28px;
         line-height: 38px; } }
   .about-area .section-title .text {
-    font-size: 20px;
+    font-size: 16px;
     line-height: 25px;
-    color: #121212;
+    color: #6c6c6c;
     margin-top: 8px; }
     @media (max-width: 767px) {
       .about-area .section-title .text {
